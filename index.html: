@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI FISTIFY</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>AI FISTIFY</h1>
+    <p>Summarize videos in seconds!</p>
+  </header>
+
+  <main>
+    <input id="videoInput" placeholder="Paste video text or transcript here" />
+    <button id="summarizeBtn">Summarize</button>
+    <p id="summaryOutput"></p>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
